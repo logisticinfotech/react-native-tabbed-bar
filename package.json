@@ -1,0 +1,34 @@
+{
+  "name": "@logisticinfotech/react-native-tabbed-bar",
+  "version": "1.0.0",
+  "description": "React Native Tab Bar Library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logisticinfotech/react-native-tabbed-bar.git"
+  },
+  "keywords": [
+    "Tab Bar",
+    "Tab",
+    "Tab Layout",
+    "Tab View"
+  ],
+  "author": "Shubham Vala",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/logisticinfotech/react-native-tabbed-bar/issues"
+  },
+  "homepage": "https://github.com/logisticinfotech/react-native-tabbed-bar#readme",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react-native-pose": "^0.9.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.13",
+    "typescript": "^3.4.3"
+  }
+}

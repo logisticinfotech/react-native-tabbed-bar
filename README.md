@@ -18,7 +18,6 @@ Please check this blog for installation and usage [this link](https://www.logist
 
 | Prop | Default | Type | Description |
 | ---- | ------- | ---- | ----------- |
-
 | displayTab          | 3                       | `Number`                               | Number of tabs show in line.                                      |
 | children               | ---                       | `Node`                               | List of children node for the tabs. its required.                                               |
 | tabBarContainerStyle | {}                       | `style`                              | Style of the one tab bar.                                               |

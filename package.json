@@ -1,6 +1,6 @@
 {
   "name": "@logisticinfotech/react-native-tabbed-bar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Native Tab Bar Library.",
   "main": "index.js",
   "scripts": {

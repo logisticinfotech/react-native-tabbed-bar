@@ -167,7 +167,7 @@ class TabBar extends Component {
   }
 }
 
-SwipeSegment.propTypes = {
+TabBar.propTypes = {
   displayTab: PropTypes.number,
   children: PropTypes.node.isRequired,
   tabBarContainerStyle: PropTypes.oneOfType([PropTypes.object, PropTypes.array, PropTypes.number]),
@@ -177,7 +177,7 @@ SwipeSegment.propTypes = {
   inactiveColor: PropTypes.string,
 };
 
-SwipeSegment.defaultProps = {
+TabBar.defaultProps = {
   displayTab: 3,
   tabBarContainerStyle: {},
   tabBarTextStyle: {},
